@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true
+    },
+    "files": [
+        "__tests__/functions.test.ts",
+        "__tests__/duelDuo.test.ts"
+    ]
+}
